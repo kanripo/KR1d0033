@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮要義
-#+DATE: 2015-09-23 09:37:45
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:08:42.375006
+#+PROPERTY: ID KR1d0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1d0033_WYG_005-1a>¶
 欽定四庫全書¶
 　儀禮要義卷五¶
@@ -380,4 +382,3 @@
 　¶
 　¶
 　儀禮要義卷五¶
-

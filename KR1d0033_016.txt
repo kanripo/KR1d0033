@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮要義
-#+DATE: 2015-09-23 09:37:45
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:08:42.674741
+#+PROPERTY: ID KR1d0033
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1d0033_WYG_016-1a>¶
 欽定四庫全書¶
 　儀禮要義卷十六¶
@@ -272,4 +274,3 @@
 尊賔之禮盛於上也者賔及庭奏肆夏乃至升堂飲酒¶
 乃樂止是尊賔之禮盛于堂上者也¶
 　儀禮要義卷十六¶
-
